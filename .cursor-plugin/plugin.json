@@ -1,0 +1,21 @@
+{
+  "name": "telo",
+  "version": "1.0.0",
+  "description": "Explore your Apple Health sleep, activity and workout history in Cursor. Requires the telo iPhone app to sync your records.",
+  "author": {
+    "name": "Telo",
+    "email": "contact@telo.health"
+  },
+  "homepage": "https://telo.health",
+  "repository": "https://github.com/telo-inc/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "apple-health",
+    "healthkit",
+    "sleep",
+    "hrv",
+    "workouts",
+    "health"
+  ],
+  "logo": "assets/icon.png"
+}
